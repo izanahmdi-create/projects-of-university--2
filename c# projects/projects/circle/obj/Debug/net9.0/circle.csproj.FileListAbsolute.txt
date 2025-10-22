@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\circle\bin\Debug\net9.0\circle.exe
+C:\Users\Administrator\Desktop\c# projects\projects\circle\bin\Debug\net9.0\circle.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\circle\bin\Debug\net9.0\circle.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\circle\bin\Debug\net9.0\circle.dll
+C:\Users\Administrator\Desktop\c# projects\projects\circle\bin\Debug\net9.0\circle.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.dll
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\refint\circle.dll
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\circle.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\circle\obj\Debug\net9.0\ref\circle.dll

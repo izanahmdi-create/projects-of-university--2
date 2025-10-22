@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\bin\Debug\net9.0\temperature.exe
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\bin\Debug\net9.0\temperature.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\bin\Debug\net9.0\temperature.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\bin\Debug\net9.0\temperature.dll
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\bin\Debug\net9.0\temperature.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.dll
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\refint\temperature.dll
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\temperature.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\temperature\obj\Debug\net9.0\ref\temperature.dll
