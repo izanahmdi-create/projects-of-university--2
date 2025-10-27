@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\bin\Debug\net9.0\mazrabhaft.exe
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\bin\Debug\net9.0\mazrabhaft.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\bin\Debug\net9.0\mazrabhaft.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\bin\Debug\net9.0\mazrabhaft.dll
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\bin\Debug\net9.0\mazrabhaft.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.dll
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\refint\mazrabhaft.dll
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\mazrabhaft.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\mazrabhaft\obj\Debug\net9.0\ref\mazrabhaft.dll

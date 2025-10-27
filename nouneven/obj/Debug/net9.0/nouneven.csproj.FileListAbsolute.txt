@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\bin\Debug\net9.0\nouneven.exe
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\bin\Debug\net9.0\nouneven.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\bin\Debug\net9.0\nouneven.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\bin\Debug\net9.0\nouneven.dll
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\bin\Debug\net9.0\nouneven.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.dll
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\refint\nouneven.dll
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\nouneven.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\nouneven\obj\Debug\net9.0\ref\nouneven.dll
