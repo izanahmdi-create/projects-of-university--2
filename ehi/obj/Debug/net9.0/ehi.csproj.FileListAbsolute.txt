@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\bin\Debug\net9.0\ehi.exe
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\bin\Debug\net9.0\ehi.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\bin\Debug\net9.0\ehi.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\bin\Debug\net9.0\ehi.dll
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\bin\Debug\net9.0\ehi.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.dll
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\refint\ehi.dll
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ehi.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\ehi\obj\Debug\net9.0\ref\ehi.dll

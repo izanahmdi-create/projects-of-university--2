@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\bin\Debug\net9.0\haselzarb.exe
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\bin\Debug\net9.0\haselzarb.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\bin\Debug\net9.0\haselzarb.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\bin\Debug\net9.0\haselzarb.dll
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\bin\Debug\net9.0\haselzarb.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.dll
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\refint\haselzarb.dll
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\haselzarb.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\haselzarb\obj\Debug\net9.0\ref\haselzarb.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\bin\Debug\net9.0\daysofweek.exe
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\bin\Debug\net9.0\daysofweek.deps.json
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\bin\Debug\net9.0\daysofweek.runtimeconfig.json
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\bin\Debug\net9.0\daysofweek.dll
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\bin\Debug\net9.0\daysofweek.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.dll
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\refint\daysofweek.dll
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.pdb
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\daysofweek.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c# projects\projects\daysofweek\obj\Debug\net9.0\ref\daysofweek.dll
