@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\bin\Debug\net10.0\uni-excerise6.exe
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\bin\Debug\net10.0\uni-excerise6.deps.json
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\bin\Debug\net10.0\uni-excerise6.runtimeconfig.json
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\bin\Debug\net10.0\uni-excerise6.dll
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\bin\Debug\net10.0\uni-excerise6.pdb
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.dll
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\refint\uni-excerise6.dll
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.pdb
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\uni-excerise6.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\uni-excerise6\uni-excerise6\obj\Debug\net10.0\ref\uni-excerise6.dll
