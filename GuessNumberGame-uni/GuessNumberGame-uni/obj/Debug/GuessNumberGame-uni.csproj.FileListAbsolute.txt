@@ -1,0 +1,10 @@
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame-uni.csproj.AssemblyReference.cache
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame_uni.Form1.resources
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame_uni.Properties.Resources.resources
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame-uni.csproj.GenerateResource.cache
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame-uni.csproj.CoreCompileInputs.cache
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\bin\Debug\GuessNumberGame-uni.exe.config
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\bin\Debug\GuessNumberGame-uni.exe
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\bin\Debug\GuessNumberGame-uni.pdb
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame-uni.exe
+E:\projects\projects\GuessNumberGame-uni\GuessNumberGame-uni\obj\Debug\GuessNumberGame-uni.pdb
